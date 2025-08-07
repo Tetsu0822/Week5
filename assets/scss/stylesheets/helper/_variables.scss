@@ -337,8 +337,8 @@ $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 // $danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-900 !default;
+$light: #fcfcfd !default; // $gray-100 !default;
+$dark: $natural-10 !default; // $gray-900 !default;
 // scss-docs-end theme-color-variables
 
 // scss-docs-start theme-colors-map
